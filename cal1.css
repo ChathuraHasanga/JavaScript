@@ -1,0 +1,68 @@
+input{
+    color:blue;
+    width:80px;
+    height:80px;
+    font-size: 35px;
+    border: 2px solid black;
+}
+
+input:hover{
+    color: black;    
+    background-color: green;
+    font-weight: bold;
+}
+
+table{
+    margin-left:auto;margin-right:auto;
+    margin-top: 20px;
+}
+
+body{
+    background-color:rgb(240, 206, 240);
+}
+#tdm{
+    background-color:whitesmoke;
+    border: none;
+    text-align: center;
+    border: 1px solid rgb(67, 234, 15);
+}
+#tdm:hover{
+    color: rgb(242, 255, 0);    
+    background-color: magenta;
+    font-weight: bold;
+}
+
+#tdm input{
+    width: 164px;
+}
+
+.button{
+    border: none;
+    border: 2px solid black;
+}
+
+.textView{
+    width: 330px;
+}
+
+.textView:hover{
+    background-color: white;
+    color: blue;
+    font-weight: normal;
+}
+
+.decoration{
+    margin-left:auto;margin-right:auto;
+    background-color:orange;
+    margin-top: 100px;
+    width: 370px;
+    height: 560px;
+    border: 2px solid red;
+}
+
+.textbox{
+    margin-left:auto;margin-right:auto;
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+}
